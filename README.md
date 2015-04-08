@@ -8,3 +8,5 @@ Hay dos presentaciones distintas ajustadas a cada uno de los tiempos de las char
 Colegio de Geógrafos de Andalucía: http://geoinquietossevilla.github.io/MappingPartySevilla/
 
 ETSA Sevilla: http://geoinquietossevilla.github.io/MappingPartySevilla/etsa.html#/
+
+I Jornadas Aprender a Investigar - Map In Rio: http://geoinquietossevilla.github.io/MappingPartySevilla/mapinrio.html#/
